@@ -1,0 +1,22 @@
+body{ 
+background-image:url("images/background.jpg");
+padding-top:200px;
+padding-left:100px;
+}
+.left{
+	margin-right: auto;
+	margin-left:5.5;
+}
+	
+}
+#img{}
+
+h1{
+	color:white;}
+hr {width:5%;
+}
+
+	p{
+		color:white;
+		font-family:arial;
+		font-size:20px;}
