@@ -38,16 +38,18 @@ h2{text-align:center;
  padding-top:200px;}
 	
 p{padding-top: 50px;
-	padding-bottom: 50px;
-	text-align:center;
+	padding-bottom: 20px;
 	font-size:20px;
+	text-align: center;
 	 }
 
 a:hover { background:yellow;
 	color:black;
 }
 
-
+section{width:500px;
+	margin:auto;
+background-color: #8AB4FF}
 
 footer {
   text-align: center;
